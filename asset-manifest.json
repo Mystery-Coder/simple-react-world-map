@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-world-map/static/css/main.760e6347.css",
+    "main.js": "/simple-react-world-map/static/js/main.a2ec3fc8.js",
+    "index.html": "/simple-react-world-map/index.html",
+    "main.760e6347.css.map": "/simple-react-world-map/static/css/main.760e6347.css.map",
+    "main.a2ec3fc8.js.map": "/simple-react-world-map/static/js/main.a2ec3fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760e6347.css",
+    "static/js/main.a2ec3fc8.js"
+  ]
+}
