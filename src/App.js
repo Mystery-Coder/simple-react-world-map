@@ -79,8 +79,8 @@ function App() {
 			setTotalPopulation(0);
 			setaddedCountries('');
 		}}>Reset</button>
-		
-		
+		<br/>
+		<h1>By Sudhanva and Srikar. Code is <a href="https://github.com/Mystery-Coder/simple-react-world-map" target="_blank">here</a></h1>
 	</>
   	);
 }
